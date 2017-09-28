@@ -5,5 +5,10 @@
   "main": "server.js",
   "author": {
     "name": "chu"
+  },
+  "dependencies": {
+    "express": "^4.15.5",
+    "ejs": "^2.5.7"
+     
   }
 }
