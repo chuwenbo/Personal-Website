@@ -32,7 +32,16 @@
     <Content Include="app\public\css\index.css">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="app\public\css\site.css">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="app\public\img\background-2.jpg" />
+    <Content Include="app\public\img\background-3.jpg" />
+    <Content Include="app\public\img\background.jpg" />
     <Content Include="app\views\index.html">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="dev.log.txt">
       <SubType>Code</SubType>
     </Content>
     <Content Include="package.json" />
@@ -42,6 +51,7 @@
     <Folder Include="app\" />
     <Folder Include="app\public\css\" />
     <Folder Include="app\public\js\" />
+    <Folder Include="app\public\img\" />
     <Folder Include="app\views\" />
     <Folder Include="app\public\" />
   </ItemGroup>
