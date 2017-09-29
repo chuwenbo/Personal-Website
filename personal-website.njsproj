@@ -35,9 +35,15 @@
     <Content Include="app\public\css\site.css">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="app\public\img\background-2.jpg" />
-    <Content Include="app\public\img\background-3.jpg" />
-    <Content Include="app\public\img\background.jpg" />
+    <Content Include="app\public\img\email-5-128.png" />
+    <Content Include="app\public\img\email-5-64.png" />
+    <Content Include="app\public\img\github-10-128.png" />
+    <Content Include="app\public\img\github-10-64.png" />
+    <Content Include="app\public\img\linkedin-3-128.png" />
+    <Content Include="app\public\img\linkedin-3-64.png" />
+    <Content Include="app\views\about.html">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="app\views\index.html">
       <SubType>Code</SubType>
     </Content>
