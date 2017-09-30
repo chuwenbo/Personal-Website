@@ -29,6 +29,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="server.js" />
+    <Content Include="app\public\css\about.css">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="app\public\css\index.css">
       <SubType>Code</SubType>
     </Content>

@@ -1,0 +1,35 @@
+﻿.about {
+    font-family: "Microsoft Yahei";
+    font-size: 12px;
+    color: rgb(102, 102, 102); 
+    word-spacing: 5px;
+    width: 60%;
+}
+
+.self-intro{
+    margin-bottom:20px;
+}
+
+.jobs {
+    margin-bottom: 20px;
+}
+
+.education {
+    margin-bottom: 20px;
+}
+
+.contact{
+
+}
+
+.experience-subtitle {
+    font-weight: bolder;
+    margin-bottom: 5px;
+}
+
+.about-subtitle {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-decoration: underline;
+    color: yellowgreen;
+}
