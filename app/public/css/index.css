@@ -28,3 +28,11 @@
 .contact-bar a {
     display: inline-block;
 }
+
+.footer {
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    font-size: 12px;
+    font-weight: bolder;
+}
