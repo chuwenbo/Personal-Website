@@ -39,13 +39,13 @@
     .centered {
         width: auto;
         padding: 30px 10px 30px 10px;
-        position: unset;
+        position: relative;
         top: 0;
         left: 0;
         transform: none;
         background-color: #ffffff;
-        border: 1px solid none;
-        opacity: 0.9; 
+        border: 1px solid #ffffff;
+        opacity: 0.9;
         font-size: 13px;
     }
 }

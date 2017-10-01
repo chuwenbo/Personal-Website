@@ -52,16 +52,16 @@
     }
 
     .centered {
-        position: unset;
-        top: unset;
-        left: unset;
+        position: absolute;
+        left: 20px;
+        bottom: 40px;
         transform: none;
     }
 
     .contact-bar{
-        position: absolute;
+        position: fixed;
         left: 20px;
-        bottom: 50px;
+        bottom: 40px;
     }
 
     .contact-bar a{
