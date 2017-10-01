@@ -4,13 +4,13 @@ html {
 }
 
 body {
-    background-color: white;
+    background-color: rgb(206,206,206);
     font-family: monospace; 
-    color: black;
+    color: white;
 }
 
-a{
-    color: black;
+a {
+    color: white;
 }
 
 .centered {
@@ -28,9 +28,8 @@ a{
 
 .menu-bar a { 
     font-weight: bolder;
-    font-size: 18px;
-    text-decoration-color: red;
-    text-decoration-line: underline;
+    font-size: 26px; 
+    text-decoration: none;
 }
 
 .menu-bar a:hover {
