@@ -45,12 +45,12 @@ a{
     body {
         background-color: white;
         font-family: monospace;
-        background-image: url('/img/background.png');
+        background-image: url('/img/background/TomorrowWillBeABetterDay.jpg');
         color: white;
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
-        opacity: 0.8;
+        opacity: unset;
     }
 
     a{
@@ -63,5 +63,6 @@ a{
 
     .menu-bar a {
         font-size: 30px;  
+        text-decoration: none;
     } 
 }

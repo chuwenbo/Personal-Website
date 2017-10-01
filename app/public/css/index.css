@@ -47,5 +47,24 @@
 }
 
 @media only screen and (max-width: 500px) {
-   
+    .main-title-name{
+        display: none;
+    }
+
+    .centered {
+        position: unset;
+        top: unset;
+        left: unset;
+        transform: none;
+    }
+
+    .contact-bar{
+        position: absolute;
+        left: 20px;
+        bottom: 50px;
+    }
+
+    .contact-bar a{
+        display:block;
+    }
 }

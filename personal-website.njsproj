@@ -38,13 +38,20 @@
     <Content Include="app\public\css\site.css">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="app\public\img\background\Abstract Blue Purple Texture Lockscreen Android Wallpaper.jpg" />
+    <Content Include="app\public\img\background\City Traffic Evening Tilt Shift HD Android Wallpaper.jpg" />
+    <Content Include="app\public\img\background\Concrete Road White Lines Background Android Wallpaper.jpg" />
+    <Content Include="app\public\img\background\Dark Metal Steel Clean Android Wallpaper.png" />
+    <Content Include="app\public\img\background\Green Haze Blur Gradient Android Wallpaper.jpg" />
+    <Content Include="app\public\img\background\Misty Hills Landscape Android Wallpaper.jpg" />
+    <Content Include="app\public\img\background\TomorrowWillBeABetterDay.jpg" />
     <Content Include="app\public\img\email-5-128.png" />
     <Content Include="app\public\img\email-5-64.png" />
     <Content Include="app\public\img\github-10-128.png" />
     <Content Include="app\public\img\github-10-64.png" />
     <Content Include="app\public\img\linkedin-3-128.png" />
     <Content Include="app\public\img\linkedin-3-64.png" />
-    <Content Include="app\public\img\background.png" />
+    <Content Include="app\public\img\background\background.png" />
     <Content Include="app\views\about.html">
       <SubType>Code</SubType>
     </Content>
@@ -60,6 +67,7 @@
   <ItemGroup>
     <Folder Include="app\" />
     <Folder Include="app\public\css\" />
+    <Folder Include="app\public\img\background\" />
     <Folder Include="app\public\js\" />
     <Folder Include="app\public\img\" />
     <Folder Include="app\views\" />
