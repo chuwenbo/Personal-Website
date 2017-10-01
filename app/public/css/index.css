@@ -10,6 +10,11 @@
     font-family: 'Playfair Display', Georgia, serif;
 }
 
+.main-title-first {
+    color: black;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
 .contact-bar {
     
 }
@@ -31,8 +36,16 @@
 
 .footer {
     position: absolute;
-    left: 10px;
+    left: 20px;
     bottom: 10px;
     font-size: 12px;
-    font-weight: bolder;
+    font-weight: bolder; 
+}
+
+.footer a{
+    color: black;
+}
+
+@media only screen and (max-width: 500px) {
+   
 }

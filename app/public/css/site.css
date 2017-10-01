@@ -5,6 +5,12 @@ html {
 
 body {
     background-color: white;
+    font-family: monospace; 
+    color: black;
+}
+
+a{
+    color: black;
 }
 
 .centered {
@@ -15,12 +21,12 @@ body {
 }
 
 .menu-bar {
-    margin-left: 20px;
-    margin-top: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    width:10%;
 }
 
-.menu-bar a {
-    color: black;
+.menu-bar a { 
     font-weight: bolder;
     font-size: 18px;
     text-decoration-color: red;
@@ -29,4 +35,33 @@ body {
 
 .menu-bar a:hover {
     color: black;
+}
+
+/*
+    css styles form mobile app
+*/
+
+@media only screen and (max-width: 500px) {
+    body {
+        background-color: white;
+        font-family: monospace;
+        background-image: url('/img/background.png');
+        color: white;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        opacity: 0.8;
+    }
+
+    a{
+        color: white;
+    }
+
+    .centered {
+        width: 80%;
+    }
+
+    .menu-bar a {
+        font-size: 30px;  
+    } 
 }

@@ -44,6 +44,7 @@
     <Content Include="app\public\img\github-10-64.png" />
     <Content Include="app\public\img\linkedin-3-128.png" />
     <Content Include="app\public\img\linkedin-3-64.png" />
+    <Content Include="app\public\img\background.png" />
     <Content Include="app\views\about.html">
       <SubType>Code</SubType>
     </Content>

@@ -3,3 +3,4 @@
 1. html tag 100% , how does it effect layout?
 2. how to align div to the middle of page? https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/
 3. Build by ,in , with.
+4. Viewport meta tag  https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag
