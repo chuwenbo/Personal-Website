@@ -45,6 +45,7 @@
     <Content Include="app\public\img\background\Green Haze Blur Gradient Android Wallpaper.jpg" />
     <Content Include="app\public\img\background\Misty Hills Landscape Android Wallpaper.jpg" />
     <Content Include="app\public\img\background\TomorrowWillBeABetterDay.jpg" />
+    <Content Include="app\public\img\background\TomorrowWillBeABetterDay_1.jpg" />
     <Content Include="app\public\img\email-5-128.png" />
     <Content Include="app\public\img\email-5-64.png" />
     <Content Include="app\public\img\github-10-128.png" />
