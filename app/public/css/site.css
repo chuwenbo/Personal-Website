@@ -4,20 +4,35 @@ html {
 }
 
 body {
-    background-color: rgb(206,206,206);
-    font-family: monospace; 
-    color: white;
+    /*background-color: rgb(206,206,206);*/
+    background-color:black;
+    font-family: monospace;
+    /*color: white;*/ 
+    opacity: unset; 
 }
 
 a {
     color: white;
 }
 
+.backgoundImg {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-image: url('/img/background/game.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    opacity: 0.4;
+} 
+
 .centered {
     position: fixed; /* or absolute */
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    bottom:20px;
+    left: 10px;
+    /*transform: translate(-50%, -50%);*/
 }
 
 .menu-bar {
@@ -36,6 +51,10 @@ a {
     color: black;
 }
 
+.hidden{
+    display: none;
+}
+
 /*
     css styles form mobile app
 */
@@ -49,6 +68,10 @@ a {
         background-repeat: no-repeat;
         background-attachment: fixed; 
         opacity: unset;
+    }
+
+    .backgoundImg{
+        display:none;
     }
 
     a{
